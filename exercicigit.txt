@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_a03260
 Trabajo paralelamente desde el branch master para resolver los conflictos de versiones para el ejercicio de Git de IT academy
+=======
+He modificado el fichero de texto el branch1 para el ejercicio de Git de IT Academy
+>>>>>>> .merge_file_a25864
