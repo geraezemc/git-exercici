@@ -1,0 +1,1 @@
+Trabajo paralelamente desde el branch master para resolver los conflictos de versiones para el ejercicio de Git de IT academy
